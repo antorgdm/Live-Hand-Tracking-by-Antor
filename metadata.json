@@ -1,0 +1,7 @@
+{
+  "name": "Live Hand Tracker",
+  "description": "A real-time hand tracking application using your webcam and machine learning to detect and display hand landmarks.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
